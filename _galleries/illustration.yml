@@ -83,8 +83,8 @@ arts:
   artist: "Gustav Klimt"
   description: "description"
   
-  - image: "images/galleries/illustration/bird.jpg"
-  order: "14"
+- image: "images/galleries/illustration/maxresdefault.jpg"
+  order: "13"
   title: "title"
   artist: "Gustav Klimt"
   description: "description"
