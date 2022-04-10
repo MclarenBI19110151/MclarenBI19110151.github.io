@@ -6,4 +6,4 @@ permalink: "/about/"
 --- 
 About the Artist - Mclaren W. Yusof
 
-Mclaren was born in the districts of Sabah at his hometown, Ranau. As a kid, Mclaren was loved to watch animated cartoons on the television. His favorite part of the day was watching Disney's animated character drawing and Art Attack back when Astro was still the go-to TV company.
+An amateur artist who drew a lot when he was still young. Up to today, his favorite style of drawing is still black and white. Ambitious to becoming a tattoo artist one day.
