@@ -20,7 +20,7 @@ arts:
   artist: "Mclaren"
   description: "asdsd"
   
-- image: "images/galleries/illustration/bird2.jpg
+- image: "images/galleries/illustration/bird2.jpg"
   order: "4"
   title: "placeholder"
   artist: "placeholder"
